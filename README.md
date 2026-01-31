@@ -138,4 +138,4 @@ ir1
 
 
 # Result
-Thus the programs are executed successfully.
+Thus the given data successfully performed data cleaning and saved the cleaned data to a file.
